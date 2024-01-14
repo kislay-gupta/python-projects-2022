@@ -36,6 +36,7 @@ Make sure you have Python installed on your system.
 
 ## Example
 
+```plaintext
 Welcome to the PyPassword Generator!
 How many letters would you like in your password? 4
 How many symbols would you like? 2
