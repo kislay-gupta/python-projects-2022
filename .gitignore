@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+pipenv/
+.Python
+lib/
+libs/
+lib64/
+__pyenv/
+pyenv/
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.exe
+*.msi
+*.pyinstaller/
+MANIFEST
+
+# Flask related
+instance/
+.webassets-cache
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
